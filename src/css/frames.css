@@ -1,0 +1,16 @@
+.btn-frame{
+    font-weight: bold;
+    text-decoration: none;
+    color: #000;
+}
+.btn-frame:hover{
+    color: #FFF;
+}
+
+.adminBasicFrames{
+    height: 100vh;
+}
+
+#getHome{
+    text-decoration: none;color: inherit;
+}

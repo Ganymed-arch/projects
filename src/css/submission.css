@@ -1,0 +1,16 @@
+.bg-cust-prp{
+    --cust-prp-clr: 120, 21, 168;
+    background-color: rgba(var(--cust-prp-clr), 75%);
+}
+.bg-cust-blu{
+    --cust-blu-clr: 37, 69, 181;
+    background-color: rgba(var(--cust-blu-clr), 80%);
+}
+.bg-cust-clr{
+    --cust-blu-clr: 29, 99, 133;
+    background-color: rgba(var(--cust-blu-clr), 80%);
+}
+
+#submit-button:hover{
+    background-color: rgba(var(--cust-blu-clr), 100%);
+}

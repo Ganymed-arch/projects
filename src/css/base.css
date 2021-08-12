@@ -1,0 +1,33 @@
+li >a{text-decoration: none;color: inherit; font-weight: bold}
+/*#####################*/
+html, body{
+    height: 100%;
+    margin: 0;
+}
+.full-height {
+    height: 100%;
+}
+/*#####################*/
+#idleglance_banner{
+    height: 100%;
+    width: 100%;
+}
+
+.bg-cust-prp{
+    --cust-prp-clr: 120, 21, 168;
+    background-color: rgba(var(--cust-prp-clr), 75%);
+}
+
+.footer-element{
+    color: #FFF;
+    transition: color 0.5s;
+}
+.footer-element:hover{
+    color: #372069;
+}
+.footer-bg{
+    background-color: #372069;
+}
+/*#####################*/
+/*#####################*/
+/*#####################*/
